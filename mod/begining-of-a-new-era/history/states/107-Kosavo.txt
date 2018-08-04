@@ -1,3 +1,4 @@
+
 state={
 	id=107
 	name="STATE_107"
@@ -16,13 +17,14 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = SER
-  victory_points = {
+		victory_points = {
 			9890 7 
 		}
+
 	}
 
 	provinces={
-		797 3609 3956 3984 6634 9599 11583 11586 
+		797 3609 3956 3984 6634 9599 11583 11586 13220 
 	}
 	manpower=1864700
 	buildings_max_level_factor=1.000
