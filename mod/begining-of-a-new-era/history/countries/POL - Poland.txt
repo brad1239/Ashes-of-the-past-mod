@@ -133,23 +133,23 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 18
+			popularity = 0
 		}
 
 		fascism = {
-			popularity = 15
+			popularity = 0
 		}
 		
 		communism = {
-			popularity = 2
+			popularity = 100
 		}
 		
 		neutrality = { 
-			popularity = 65
+			popularity = 0
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = communism
 	last_election = "1935.9.8"
 	election_frequency = 36
 	elections_allowed = no
@@ -160,23 +160,23 @@ set_politics = {
 
 		parties = {
 			democratic = { 
-				popularity = 13
+				popularity = 0
 			}
 
 			fascism = {
-				popularity = 7
+				popularity = 0
 			}
 			
 			communism = {
-				popularity = 2
+				popularity = 100
 			}
 			
 			neutrality = { 
-				popularity = 78
+				popularity = 0
 			}
 		}
 		
-		ruling_party = neutrality
+		ruling_party = communism
 		last_election = "1935.9.8"
 		election_frequency = 36
 		elections_allowed = no
