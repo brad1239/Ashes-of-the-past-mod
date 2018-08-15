@@ -1,27 +1,24 @@
 ideologies = {
 
-	reactionary = {
+	socialist = {
 		
 		types = {
-			
-			counter_progressive_democrat = {
-			}
-			
-			oligarchist = {
+		
+			social_democrat_ideology = {
 			}
 			
 		}
 		
 		dynamic_faction_names = {
-			"FACTION_NAME_REACTIONARY_1"
-			"FACTION_NAME_REACTIONARY_2"
-			"FACTION_NAME_REACTIONARY_3"
-			"FACTION_NAME_REACTIONARY_4"
-			"FACTION_NAME_REACTIONARY_5"
-			"FACTION_NAME_REACTIONARY_6"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_1"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_2"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_3"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_4"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_5"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_6"
 		}
 		
-		color = { 140 140 140 }
+		color = { 255 75 75 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

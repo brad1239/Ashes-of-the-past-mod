@@ -1,6 +1,6 @@
 ideologies = {
 
-	islamist = {
+	theocratic = {
 		
 		types = {
 		
@@ -13,15 +13,15 @@ ideologies = {
 		}
 		
 		dynamic_faction_names = {
-			"FACTION_NAME_ISLAMIST_1"
-			"FACTION_NAME_ISLAMIST_2"
-			"FACTION_NAME_ISLAMIST_3"
-			"FACTION_NAME_ISLAMIST_4"
-			"FACTION_NAME_ISLAMIST_5"
-			"FACTION_NAME_ISLAMIST_6"
+			"FACTION_NAME_THEOCRATIC_1"
+			"FACTION_NAME_THEOCRATIC_2"
+			"FACTION_NAME_THEOCRATIC_3"
+			"FACTION_NAME_THEOCRATIC_4"
+			"FACTION_NAME_THEOCRATIC_5"
+			"FACTION_NAME_THEOCRATIC_6"
 		}
 		
-		color = { 0 50 0 }
+		color = { 0 116 3 }
 		
 		war_impact_on_world_tension = 2
 		faction_impact_on_world_tension = 2

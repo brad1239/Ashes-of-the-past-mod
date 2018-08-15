@@ -1,24 +1,30 @@
 ideologies = {
 
-	market_liberal = {
+	christian_democrat = {
 		
 		types = {
 		
-			libertarian = {
+			centrist = {
+			}
+			
+			liberalist = {
+			}
+			
+			moderate = {
 			}
 			
 		}
 		
 		dynamic_faction_names = {
-			"FACTION_NAME_MARKET_LIBERAL_1"
-			"FACTION_NAME_MARKET_LIBERAL_2"
-			"FACTION_NAME_MARKET_LIBERAL_3"
-			"FACTION_NAME_MARKET_LIBERAL_4"
-			"FACTION_NAME_MARKET_LIBERAL_5"
-			"FACTION_NAME_MARKET_LIBERAL_6"
+			"FACTION_NAME_SOCIAL_SOCIALIST_1"
+			"FACTION_NAME_SOCIAL_SOCIALIST_2"
+			"FACTION_NAME_SOCIAL_SOCIALIST_3"
+			"FACTION_NAME_SOCIAL_SOCIALIST_4"
+			"FACTION_NAME_SOCIAL_SOCIALIST_5"
+			"FACTION_NAME_SOCIAL_SOCIALIST_6"
 		}
 		
-		color = { 225 215 0 }
+		color = { 255 170 67 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

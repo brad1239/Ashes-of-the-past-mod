@@ -21,7 +21,7 @@ ideologies = {
 			"FACTION_NAME_MONARCHIST_6"
 		}
 		
-		color = { 70 0 70 }
+		color = { 104 0 104 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

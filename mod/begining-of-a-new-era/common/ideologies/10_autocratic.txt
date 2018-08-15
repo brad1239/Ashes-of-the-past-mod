@@ -1,36 +1,36 @@
 ideologies = {
 
-	communist = {
+	autocratic = {
 		
 		types = {
 		
-			marxist = {
+			black_supremacist = {	#Robert Mugabe
 			}
 		
-			leninist = {
+			national_socialist = {	#Hitler
 			}
 			
-			stalinist = {
+			fascist_ideology = {	#Mussolini
 			}
 			
-			maoist = {
+			falangist = {			#Franco
 			}
 			
-			juche = {
+			rexist = {				#Belgian Fascists
 			}
 			
 		}
 		
 		dynamic_faction_names = {
-			"FACTION_NAME_COMMUNIST_1"
-			"FACTION_NAME_COMMUNIST_2"
-			"FACTION_NAME_COMMUNIST_3"
-			"FACTION_NAME_COMMUNIST_4"
-			"FACTION_NAME_COMMUNIST_5"
-			"FACTION_NAME_COMMUNIST_6"
+			"FACTION_NAME_AUTOCRATIC_1"
+			"FACTION_NAME_AUTOCRATIC_2"
+			"FACTION_NAME_AUTOCRATIC_3"
+			"FACTION_NAME_AUTOCRATIC_4"
+			"FACTION_NAME_AUTOCRATIC_5"
+			"FACTION_NAME_AUTOCRATIC_6"
 		}
 		
-		color = { 100 0 0 }
+		color = { 88 88 88 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1

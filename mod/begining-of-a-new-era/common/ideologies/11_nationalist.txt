@@ -1,24 +1,30 @@
 ideologies = {
 
-	social_democrat = {
+	nationalist = {
 		
 		types = {
 		
-			social_democrat_ideology = {
+			national_democrat = {
+			}
+			
+			proto_fascist = {
+			}
+		
+			autocrat = {
 			}
 			
 		}
 		
 		dynamic_faction_names = {
-			"FACTION_NAME_SOCIAL_DEMOCRAT_1"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_2"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_3"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_4"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_5"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_6"
+			"FACTION_NAME_NATIONALIST_1"
+			"FACTION_NAME_NATIONALIST_2"
+			"FACTION_NAME_NATIONALIST_3"
+			"FACTION_NAME_NATIONALIST_4"
+			"FACTION_NAME_NATIONALIST_5"
+			"FACTION_NAME_NATIONALIST_6"
 		}
 		
-		color = { 255 35 35 }
+		color = { 164 135 101 }
 		
 		war_impact_on_world_tension = 1
 		faction_impact_on_world_tension = 1
