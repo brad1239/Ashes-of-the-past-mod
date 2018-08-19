@@ -136,7 +136,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "s"
+	name = "Kim Il-sung"
 	desc = "POLITICS_ANTANAS_SNIECKUS_DESC"
 	picture = ""
 	expire = "1965.1.1"
