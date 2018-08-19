@@ -464,8 +464,8 @@ DDR = {
     color_ui = rgb { 150 180 120 }
 }
 KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }	
+	color = rgb { 66  96  225 }
+	color_ui = rgb { 66  96  225 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }
@@ -530,4 +530,8 @@ D14 = {
 D15 = {
 	color = rgb { 194 140 86 }
 	color_ui = rgb { 252 182 112 }
+}
+NKO = {
+	color = rgb { 232  79  79 }
+	color_ui = rgb { 232  79  79 }
 }
