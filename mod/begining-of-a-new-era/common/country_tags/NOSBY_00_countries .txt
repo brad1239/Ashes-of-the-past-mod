@@ -1,1 +1,3 @@
 NKO	= "countries/North Korea.txt"
+MYA	= "countries/Myanmar.txt"
+BAN	= "countries/Bangladesh.txt

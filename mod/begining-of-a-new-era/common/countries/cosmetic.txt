@@ -181,27 +181,27 @@ CHI_power_struggle_defeated = {
 	color_ui = rgb { 198 169 248 }
 }
 UKR_SOV = {
-	color = rgb { 207 29 0 }
-	color_ui = rgb { 207 29 0 }
+	color = rgb { 140 22 16 }
+	color_ui = rgb { 140 22 16 }
 }
 BLR_SOV = {
-	color = rgb { 207 29 0  }
-	color_ui = rgb { 207 29 0  }
+	color = rgb { 140 22 16  }
+	color_ui = rgb { 140 22 16  }
 }
 LIT_SOV = {
-	color = rgb { 207 29 0  }
-	color_ui = rgb { 207 29 0  }
+	color = rgb { 140 22 16  }
+	color_ui = rgb { 140 22 16  }
 }
 LAT_SOV = {
-	color = rgb { 207 29 0  }
-	color_ui = rgb { 207 29 0  }
+	color = rgb { 140 22 16  }
+	color_ui = rgb { 140 22 16  }
 }
 EST_SOV = {
-	color = rgb { 207 29 0  }
-	color_ui = rgb { 207 29 0  }
+	color = rgb { 140 22 16  }
+	color_ui = rgb { 140 22 16  }
 }
 DDR_SOV = {
-	color = rgb { 207 29 0  }
-	color_ui = rgb { 207 29 0  }
+	color = rgb { 140 22 16  }
+	color_ui = rgb { 140 22 16  }
 }
 

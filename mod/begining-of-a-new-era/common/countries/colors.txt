@@ -9,8 +9,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 195 28 0 }
-	color_ui = rgb { 195 28 0 }
+	color = rgb { 122 10 0 }
+	color_ui = rgb { 122 10 0 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -226,8 +226,8 @@ SAF = {
 	color_ui = rgb { 198 169 248 }
 }
 SAU = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 63 104 29 }
+	color_ui = rgb { 63 104 29 }
 }
 SIA = {
 	color = rgb { 171 190 152 }
@@ -287,20 +287,20 @@ HAI = {
 	color_ui = rgb { 174 113 113 }
 }
 YEM = {
-	color = rgb { 155 101 107 }
-	color_ui = rgb { 202 131 139 }
+	color = rgb { 183 19 92 }
+	color_ui = rgb { 183 19 92 }
 }
 OMA = {
-	color = rgb { 155 101 107 }
-	color_ui = rgb { 202 131 139 }
+	color = rgb { 167 148 147 }
+	color_ui = rgb { 167 148 147 }
 }
 SLO = {
 	color = rgb { 158  161  188 }
 	color_ui = rgb { 255 255 255 }
 }
 RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 237  156  0 }
+	color_ui = rgb { 237  156  0 }
 }
 
 CRO = {
@@ -534,4 +534,12 @@ D15 = {
 NKO = {
 	color = rgb { 232  79  79 }
 	color_ui = rgb { 232  79  79 }
+}
+MYA = {
+	color = rgb { 187  229  85 }
+	color_ui = rgb { 187  229  85 }
+}
+BAN = {
+	color = rgb { 58  183  132 }
+	color_ui = rgb { 58  183  132 }
 }

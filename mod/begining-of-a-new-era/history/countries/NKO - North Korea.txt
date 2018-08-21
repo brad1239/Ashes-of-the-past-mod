@@ -1,4 +1,4 @@
-﻿capital = 11
+﻿capital = 776
 
 oob = "NKO_1936"
 
@@ -31,7 +31,7 @@ set_convoys = 10
 	complete_national_focus = construction_effort
 	complete_national_focus = production_effort
 	
-	oob = "LIT_1939"
+	oob = "NKO_1939"
 	set_technology = {
 		tech_support = 1		
 		tech_engineers = 1
