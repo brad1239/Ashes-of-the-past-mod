@@ -299,8 +299,8 @@ SLO = {
 	color_ui = rgb { 255 255 255 }
 }
 RAJ = {
-	color = rgb { 237  156  0 }
-	color_ui = rgb { 237  156  0 }
+	color = rgb { 234  124  17 }
+	color_ui = rgb { 234  124  17 }
 }
 
 CRO = {
@@ -399,8 +399,8 @@ INS = {
 }
 
 VIN = {
-	color = rgb { 230  223  50 }
-	color_ui = rgb { 230  223  50 }
+	color = rgb { 190  0  0 }
+	color_ui = rgb { 190  0  0 }
 }
 
 CAM = {
@@ -607,4 +607,71 @@ CAM = {
 	color = rgb { 202 129 76 }
 	color_ui = rgb { 202 129 76 }
 }
-
+UGD = {
+	color = rgb { 118 87 2 }
+	color_ui = rgb { 118 87 2 }
+}
+TNZ = {
+	color = rgb { 62 223 138 }
+	color_ui = rgb { 62 223 138 }
+}
+MLW = {
+	color = rgb { 207 111 74 }
+	color_ui = rgb { 207 111 74 }
+}
+ZAM = {
+	color = rgb { 79 239 0 }
+	color_ui = rgb { 79 239 0 }
+}
+ROW = {
+	color = rgb { 20 145 251 }
+	color_ui = rgb { 20 145 251 }
+}
+BUR = {
+	color = rgb { 205 253 167 }
+	color_ui = rgb { 205 253 167 }
+}
+NII = {
+	color = rgb { 215 140 9 }
+	color_ui = rgb { 215 140 9 }
+}
+TOG = {
+	color = rgb { 198 147 255 }
+	color_ui = rgb { 198 147 255 }
+}
+GHA = {
+	color = rgb { 234 255 116 }
+	color_ui = rgb { 234 255 116 }
+}
+BEN = {
+	color = rgb { 255 0 66 }
+	color_ui = rgb { 255 0 66 }
+}
+CDI = {
+	color = rgb { 216 152 105 }
+	color_ui = rgb { 216 152 105 }
+}
+SEE = {
+	color = rgb { 97 135 42 }
+	color_ui = rgb { 97 135 42 }
+}
+GUN = {
+	color = rgb { 240 214 109 }
+	color_ui = rgb { 240 214 109 }
+}
+BUK = {
+	color = rgb { 126 140 68 }
+	color_ui = rgb { 126 140 68 }
+}
+NAM = {
+	color = rgb { 0 95 76 }
+	color_ui = rgb { 0 95 76 }
+}
+LES = {
+	color = rgb { 20 41 145 }
+	color_ui = rgb { 20 41 145 }
+}
+SWA = {
+	color = rgb { 199 217 0 }
+	color_ui = rgb { 199 217 0 }
+}

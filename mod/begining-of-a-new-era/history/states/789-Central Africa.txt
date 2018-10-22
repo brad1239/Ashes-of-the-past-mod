@@ -12,9 +12,9 @@ state={
 	}
 
 	provinces={
-		1974 1993 3165 5084 8078 11108 12719 12830 
+		1974 3165 5084 11108 12719 12830 
 	}
 	manpower=234231
 	buildings_max_level_factor=1.000
-    state_category=rural
+	state_category=rural
 }
