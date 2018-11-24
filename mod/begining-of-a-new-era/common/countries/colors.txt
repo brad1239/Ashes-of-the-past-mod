@@ -675,3 +675,31 @@ SWA = {
 	color = rgb { 199 217 0 }
 	color_ui = rgb { 199 217 0 }
 }
+SIL = {
+	color = rgb { 146 149 0 }
+	color_ui = rgb { 146 149 0 }
+}
+GAM = {
+	color = rgb { 146 100 19 }
+	color_ui = rgb { 146 100 19 }
+}
+EQG = {
+	color = rgb { 0 127 208 }
+	color_ui = rgb { 0 127 208 }
+}
+MAD = {
+	color = rgb { 98 137 15 }
+	color_ui = rgb { 98 137 15 }
+}
+SOM = {
+	color = rgb { 83 226 231 }
+	color_ui = rgb { 83 226 231 }
+}
+DJI = {
+	color = rgb { 10 61 190 }
+	color_ui = rgb { 10 61 190 }
+}
+GIB = {
+	color = rgb { 151 173 208 }
+	color_ui = rgb { 151 173 208 }
+}
